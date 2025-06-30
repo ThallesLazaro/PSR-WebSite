@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://psrplus.com/sitemap.xml
+Sitemap: https://www.psrplus.com/sitemap.xml
